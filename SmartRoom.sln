@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRoom.Web", "SmartRoom.Web\SmartRoom.Web.csproj", "{42ED2637-49AD-47FB-9558-7A7504EFBA55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRoom.Entity", "SmartRoom.Entity\SmartRoom.Entity.csproj", "{E296B705-E63B-49BA-A1E6-E956F916CBD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRoom.Repository", "SmartRoom.Repository\SmartRoom.Repository.csproj", "{B277BCAE-CA57-44A2-9EA1-3CDE9BE996CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRoom.Service", "SmartRoom.Service\SmartRoom.Service.csproj", "{16ABAF0A-2DB9-4D90-91E7-402E3FF161F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRoom.Common", "SmartRoom.Common\SmartRoom.Common.csproj", "{73450FAC-9D8B-4A84-9D90-120C254D7667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRoom.Data", "SmartRoom.Data\SmartRoom.Data.csproj", "{023D6042-58A1-4AB2-AD3F-78BF6023ED61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42ED2637-49AD-47FB-9558-7A7504EFBA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42ED2637-49AD-47FB-9558-7A7504EFBA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42ED2637-49AD-47FB-9558-7A7504EFBA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42ED2637-49AD-47FB-9558-7A7504EFBA55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E296B705-E63B-49BA-A1E6-E956F916CBD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E296B705-E63B-49BA-A1E6-E956F916CBD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E296B705-E63B-49BA-A1E6-E956F916CBD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E296B705-E63B-49BA-A1E6-E956F916CBD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B277BCAE-CA57-44A2-9EA1-3CDE9BE996CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B277BCAE-CA57-44A2-9EA1-3CDE9BE996CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B277BCAE-CA57-44A2-9EA1-3CDE9BE996CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B277BCAE-CA57-44A2-9EA1-3CDE9BE996CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16ABAF0A-2DB9-4D90-91E7-402E3FF161F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16ABAF0A-2DB9-4D90-91E7-402E3FF161F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16ABAF0A-2DB9-4D90-91E7-402E3FF161F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16ABAF0A-2DB9-4D90-91E7-402E3FF161F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73450FAC-9D8B-4A84-9D90-120C254D7667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73450FAC-9D8B-4A84-9D90-120C254D7667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73450FAC-9D8B-4A84-9D90-120C254D7667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73450FAC-9D8B-4A84-9D90-120C254D7667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023D6042-58A1-4AB2-AD3F-78BF6023ED61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023D6042-58A1-4AB2-AD3F-78BF6023ED61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023D6042-58A1-4AB2-AD3F-78BF6023ED61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023D6042-58A1-4AB2-AD3F-78BF6023ED61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
